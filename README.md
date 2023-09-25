@@ -11,5 +11,5 @@
 
 ## Note
 > This is an inspiration of Bloxstrap.
-> 
+
 > This one doesn't have Join server button due to some privacy issue so i didn't build it in there but it was included inside the code if you actually need to build one or request it from me.
