@@ -39,6 +39,7 @@ connected = True
 consoleLog("Connected to Discord network!")
 
 lastLogFile = None
+lastJobid = 0
 
 while True:
     if win32gui.FindWindow(None, "Roblox"):
